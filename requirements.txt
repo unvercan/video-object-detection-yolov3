@@ -1,0 +1,8 @@
+Package               Version 
+--------------------- --------
+numpy                 1.16.3  
+opencv-contrib-python 4.1.0.25
+opencv-python         4.1.0.25
+pip                   19.1    
+setuptools            41.0.1  
+wheel                 0.33.1  
