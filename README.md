@@ -1,2 +1,2 @@
 # object-detection-on-video
-- Object detection on video using YOLOv3
+Object Detection on video using YOLOv3.
